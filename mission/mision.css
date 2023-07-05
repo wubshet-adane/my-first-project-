@@ -1,0 +1,129 @@
+#first-div{
+    font-weight: 800;
+    font-family:cursive;
+    padding: 20px;
+    }
+#floating-image{
+   
+    z-index: -3;
+    position:absolute;
+    font-size: 32px;
+    /*color: greenyellow;
+   
+    background-color: aliceblue;*/
+}
+.text-on-image{
+    text-align: center;
+    color: white;
+    padding-top: 25%;
+    text-transform: uppercase;
+}
+#text2-on-image{
+    background-color: hsl(147, 50%, 47%);
+    padding: 14px;
+    border-radius: 6px;
+   
+}
+.text2-on-image-floating:hover{
+    transition: 0.3s ease-in-out;
+    transform: scale(1.5);
+	color:blue;
+}
+.text2-on-image{
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+/*.first-form{
+    text-align: center;
+    font-size: 30px;
+    background-color:aqua;
+    color: white;
+}*/
+.div-of-all{
+    margin-left: 50px;
+    margin-right: px;
+    
+}
+
+.div-full{
+   
+    margin-top:300px;
+    
+   
+
+}
+
+.nav-bar-style {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    
+    list-style-type: none;
+
+}
+
+#nav-span{
+    display:block;
+    font-family:'Lucida Sans',fantasy;
+    font-weight: 500;
+   
+}
+.div-second{
+    
+
+
+}
+#two-of-8{
+    text-align: center;
+    padding: 40px;
+}
+#btn-image{
+    width: 40px;
+    padding: 5px;
+   
+}
+#btn-image:hover{
+    transform: scale(1.5);
+    transition: 0.1s ease-in;
+
+}
+
+
+.twin-icon{
+    display:block;
+}
+#display-icon{
+    display: inline-block;
+    padding: 30px;
+}
+#img-span{
+    display: block;
+    text-decoration: wavy;
+    font-family: 'Times New Roman', Times,;
+    
+}
+.mail-icon{
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    padding: 20px;
+    font-weight: 700;
+}
+
+
+.div-imag{
+    z-index: 0.2;
+    
+}
+footer{
+    text-align: center;
+    background-color: rgba(221,249, 249,49);
+    font-size: 30px;
+    color: black;
+    text-decoration: double;
+    padding: 10px 100px 10px 100px;
+}
